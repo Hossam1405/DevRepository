@@ -1,1 +1,2 @@
 Hello from test text file in DevRepository
+This is the edited text.
